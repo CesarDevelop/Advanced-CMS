@@ -20,15 +20,15 @@
 <center><h1>Installation</h1></center>
 <center>
 <div class="btn-group-vertical">
-  <div class="btn-group">
+  <div class="btn-group" action="" metod="post">
     <button type="button" data-toggle="dropdown" class="btn btn-info dropdown-toggle">
       Select language
       <span class="caret"></span>
     </button>
     <ul class="dropdown-menu">
-      <li><a href="#">English</a></li>
-      <li><a href="#">Russian</a></li>
-      <li><a href="#">Ukrainian</a></li>
+      <li name="eng"><a href="#">English</a></li>
+      <li name="rus"><a href="#">Russian</a></li>
+      <li name="ukr"><a href="#">Ukrainian</a></li>
     </ul>
   </div>
 </div>
