@@ -1,6 +1,1 @@
-<?
-$login="Cesar";
-$email="got.bogdan@gmail.com";
-$password="12312310";
-$admin=1;
-?>
+
